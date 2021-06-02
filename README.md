@@ -1,4 +1,8 @@
-# GitWeb-Sites
+# GitWeb-SitesNew
+This is the repository containg the new GitWeb-Sites, for Mr.Crayfish device mode.
+
+# OLD:
+
 This is the repository containing the community of user created sites (referred from here on out as indexes) for the GitWeb client available with MrCrayfish's Device Mod.
 
 ## Rules of Index creation
