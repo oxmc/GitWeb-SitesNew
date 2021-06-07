@@ -1,5 +1,5 @@
 # GitWeb-SitesNew
-This is the repository containg the new GitWeb-Sites, for Mr.Crayfish device mode.
+This is the repository containg the new GitWeb-Sites, for Mr.Crayfish device mod.
 
 # OLD:
 
