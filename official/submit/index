@@ -1,0 +1,65 @@
+#banner
+image=https://i.imgur.com/rIzqukr.png
+text=&f&lHow to add a site to &aGitWeb
+
+#navigation
+item-link-1=welcome.official
+item-label-1=home
+item-icon-1=HOME
+
+#header
+text=&f&lGetting Started
+scale=2
+align=left
+padding=10
+
+#header
+text=&f&lStep 1:
+scale=2
+align=left
+padding=10
+
+#paragraph
+text=First think of a name for your site, you can use .web for your site. Example: oxmc.web\nThis will make your site oxmc.web, you can of cource change the name!
+padding=10
+
+#header
+text=&f&lStep 2:
+scale=2
+align=left
+padding=10
+
+#paragraph
+text=Next use GitWeb Designer, you can download it from the appsore.\n\nAfter installing GitWeb Designer open it and click new site.
+padding=10
+
+#header
+text=&f&lStep 3:
+scale=2
+align=left
+padding=10
+
+#paragraph
+text=Now you can create your site!\nClick on Formatting, then click on Modules, Then you can design your site!
+padding=10
+
+#header
+text=&f&lFinal Step:
+scale=2
+align=left
+padding=10
+
+#paragraph
+text=Now that you have created your site, you can go to &1https://github.com/oxmc/GitWeb-SitesNew&r\nAnd submit your site!
+padding=10
+
+#header
+text=&f&lCredits
+scale=2
+align=left
+padding=10
+
+#footer
+title=Copyright
+sub-title=Copyright (c) oxmc
+home-page=welcome.official
