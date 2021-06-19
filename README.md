@@ -1,5 +1,7 @@
 # GitWeb-SitesNew
-This is the repository containg the new GitWeb-Sites, for Mr.Crayfish device mod.
+This is the repository containg the new GitWeb-Sites, for my version of Mr.Crayfish's device mod.
+
+You can download it (here)[https://github.com/oxmc/MrCrayfishDeviceMod] 1.12.2 only.
 
 # OLD:
 
