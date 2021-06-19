@@ -53,12 +53,6 @@ padding=10
 text=Now that you have created your site, you can go to &1https://github.com/oxmc/GitWeb-SitesNew&r\nAnd submit your site!
 padding=10
 
-#header
-text=&f&lCredits
-scale=2
-align=left
-padding=10
-
 #footer
 title=Copyright
 sub-title=Copyright (c) oxmc
