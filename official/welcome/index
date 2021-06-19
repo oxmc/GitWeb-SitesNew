@@ -38,10 +38,10 @@ align=left
 padding=10
 
 #paragraph
-text=&e&lGitWeb&r was originally created by MinecraftDoodler. It is now updated and managed by MrCrayfish.
+text=&e&lGitWeb&r was originally created by MinecraftDoodler and MrCrayfish. It is now updated and managed by oxmc.
 padding=10
 
 #footer
 title=GitWeb
-sub-title=Copyright (c) MrCrayfish
+sub-title=Copyright (c) oxmc
 home-page=welcome.official
